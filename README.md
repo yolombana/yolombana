@@ -1,5 +1,5 @@
 # Hi there, I'm Yoel Lombana 👋
-## I'm a Telecommunications Engineer with Master Degree in Software Engineering and Computer Systems from Colombia living in Bogotá. 
+## I'm a Telecommunications Engineer with Master Degree in Software Engineering and Computer Systems. From Colombia living in Bogotá. 
 
 - 🔭 I’m currently working on ...
 - 💬 Ask me about ...
