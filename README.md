@@ -10,6 +10,7 @@
 ### [Terminal Commands]()
 
 | Option | Description |
+|------|------|
 | Ctrl + A | Move to the beginning  |
 | Ctrl + E | Move to the end|
 | Ctrl + U | Delete line |
@@ -18,11 +19,7 @@
 
 ### [Alias]()
 
-- **kbi** :
-Kubectl apply -f
-- **..** :
-cd ..
-- **.2** :
-cd ../..
-- **.3** : 
-cd ../../..
+- **kbi** :  `Kubectl apply -f`
+- **..** :   `cd ..`
+- **.2** :   `cd ../..`
+- **.3** :   `cd ../../..`
